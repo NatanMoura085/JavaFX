@@ -9,6 +9,7 @@
       <root url="jar://$USER_HOME$/Desktop/libs &amp; Tools/javafx-sdk-22.0.1/lib/javafx.media.jar!/" />
       <root url="jar://$USER_HOME$/Desktop/libs &amp; Tools/javafx-sdk-22.0.1/lib/javafx.swing.jar!/" />
       <root url="jar://$USER_HOME$/Desktop/libs &amp; Tools/javafx-sdk-22.0.1/lib/javafx.web.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libs &amp; Tools/lib controlsFX/controlsfx-11.2.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
